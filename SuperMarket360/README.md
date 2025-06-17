@@ -78,5 +78,4 @@ SuperMarket360/
 
 **Ayush Krishna**
 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-krishna-b5b149304/)
-
 ````
