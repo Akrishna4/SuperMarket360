@@ -1,3 +1,4 @@
+```markdown
 # 🛒 SuperMarket360
 
 A data-driven supermarket sales analysis project using Python, Jupyter Notebook, and visual analytics.
@@ -45,6 +46,7 @@ SuperMarket360/
 ## 🚀 How to Run
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Akrishna4/SuperMarket360.git
 ````
@@ -76,9 +78,9 @@ SuperMarket360/
 ## ✍️ Author
 
 **Ayush Krishna**
-📫 [LinkedIn](https://www.linkedin.com/in/ayush-krishna-b5b149304/)
-
----
+🔗 [LinkedIn](https://www.linkedin.com/in/ayush-krishna-b5b149304/)
 
 ```
 
+Let me know if you'd like to add a license section or GitHub badges too.
+```
