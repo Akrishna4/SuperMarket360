@@ -1,4 +1,3 @@
-```markdown
 # 🛒 SuperMarket360
 
 A data-driven supermarket sales analysis project using Python, Jupyter Notebook, and visual analytics.
@@ -82,5 +81,3 @@ SuperMarket360/
 
 ```
 
-Let me know if you'd like to add a license section or GitHub badges too.
-```
