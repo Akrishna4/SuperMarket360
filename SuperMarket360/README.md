@@ -54,13 +54,13 @@ SuperMarket360/
 
    ```bash
    cd SuperMarket360
-   ```
+   ````
 
 3. Launch Jupyter Notebook:
 
    ```bash
    jupyter notebook
-   ```
+   ````
 
 4. Open `super-market-analysis.ipynb` and run all cells.
 
@@ -79,5 +79,4 @@ SuperMarket360/
 **Ayush Krishna**
 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-krishna-b5b149304/)
 
-```
-```
+````
