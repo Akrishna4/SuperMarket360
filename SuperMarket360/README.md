@@ -26,19 +26,19 @@ SuperMarket360/
 
 ## 📊 Key Features
 
-- 🧹 Data cleaning & preprocessing
-- 📈 Visualizations using Matplotlib & Seaborn
-- 🔍 Trend analysis on product lines, cities, gender, and more
-- 🧮 Summary statistics for sales, profit, and customer behavior
+- 🧹 Data cleaning & preprocessing  
+- 📈 Visualizations using Matplotlib & Seaborn  
+- 🔍 Trend analysis on product lines, cities, gender, and more  
+- 🧮 Summary statistics for sales, profit, and customer behavior  
 
 ---
 
 ## 🔧 Technologies Used
 
-- Python
-- Jupyter Notebook
-- Pandas, NumPy
-- Matplotlib, Seaborn
+- Python  
+- Jupyter Notebook  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
 
 ---
 
@@ -76,8 +76,9 @@ SuperMarket360/
 ## ✍️ Author
 
 **Ayush Krishna**
-📫 [LinkedIn](https://www.linkedin.com/in/ayush-krishna-b5b149304/) 
+📫 [LinkedIn](https://www.linkedin.com/in/ayush-krishna-b5b149304/)
 
 ---
 
+```
 
